@@ -4,7 +4,9 @@
 
 ### DevOps Engineer • SRE • Kubernetes • AI Applied to Infrastructure • Platform Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Kubernetes+%7C+Docker+%7C+Linux+%7C+CI%2FCD;Observability+%7C+DevSecOps+%7C+Automation;Production+Reliability+%7C+Platform+Engineering;Building+Scalable+Infrastructure+and+SaaS+Solutions;AI+Applied+to+Operations+and+Automation" />
+🎓 Technology Degree in Artificial Intelligence — Universidade Potiguar (UNP) • In Progress
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=950&lines=Kubernetes+%7C+Docker+%7C+Linux+%7C+CI%2FCD;Observability+%7C+DevSecOps+%7C+Automation;Production+Reliability+%7C+Platform+Engineering;AI+Applied+to+Operations+and+Automation;Building+Scalable+Infrastructure+and+SaaS+Solutions" />
 
 <br>
 
@@ -13,8 +15,11 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Kubernetes-Production-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/SRE-Reliability-0A0A0A?style=for-the-badge&logo=linux&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Observability-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/CI%2FCD-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 </div>
@@ -56,11 +61,11 @@ mindset:
 
 ```yaml
 education:
-  - Technology Degree in Artificial Intelligence
+  - degree: Technology Degree in Artificial Intelligence
     institution: Universidade Potiguar (UNP)
     status: In Progress
 
-current_learning:
+continuous_learning:
   - AWS & Cloud Architecture
   - Advanced Kubernetes
   - Reliability Engineering
@@ -79,7 +84,7 @@ current_learning:
 |---|---:|---|
 | 🏥 Unimed Natal | Healthcare | Kubernetes • Rancher • Observability |
 | 📡 Vivo / Telefônica | Telecom | Infrastructure • Operations |
-| 💳 B3 / Sinqia | Financial Market | Critical Systems |
+| 💳 B3 / Sinqia | Financial Market | Critical Systems • Monitoring |
 | 🏦 Caixa Econômica Federal | Banking | Enterprise Infrastructure |
 
 </div>
@@ -116,7 +121,7 @@ Grafana • Prometheus • Loki • Zabbix • Metrics • Logs • Alerting
 
 <br>
 
-GitLab CI/CD • Automation • Pipelines • DevSecOps
+GitLab CI/CD • Automation • DevSecOps • Pipelines
 
 ---
 
@@ -132,7 +137,7 @@ Oracle • PostgreSQL
 
 ## 🔐 Security
 
-Trivy • Vulnerability Scanning • Security Governance • Best Practices
+Trivy • Vulnerability Scanning • Security Governance • Production Best Practices
 
 </div>
 
@@ -145,7 +150,7 @@ Trivy • Vulnerability Scanning • Security Governance • Best Practices
 | Kubernetes | Observability | DevOps | Infrastructure |
 |---|---|---|---|
 | Cluster Administration | Grafana Dashboards | CI/CD Pipelines | Linux Administration |
-| HPA & Scaling | Prometheus Metrics | GitLab Automation | Reverse Proxy |
+| HPA & Autoscaling | Prometheus Metrics | GitLab Automation | Reverse Proxy |
 | Deploy Strategies | Loki Logs | Docker Strategies | Networking |
 | Troubleshooting | Zabbix Monitoring | DevSecOps | Production Support |
 
@@ -170,7 +175,7 @@ features:
   - Multi-tenant Architecture
   - Docker Infrastructure
   - Observability Stack
-  - Reverse Proxy with NGINX
+  - NGINX Reverse Proxy
   - PostgreSQL Backend
 ```
 
